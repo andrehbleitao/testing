@@ -1,0 +1,43 @@
+package com.chihuahua.enums;
+
+public enum eFactor {
+
+	f0,
+	f1,
+	f2,
+	f3,
+	f4,
+	f5,
+	f6,
+	f7,
+	f8,
+	f9,
+	f10,
+	f15,
+	f20,
+	f25,
+	f30,
+	f35,
+	f40,
+	f45,
+	f50,
+	f55,
+	f60,
+	f65,
+	f70,
+	f75,
+	f80,
+	f85,
+	f90,
+	f91,
+	f92,
+	f93,
+	f94,
+	f95,
+	f96,
+	f97,
+	f98,
+	f99,
+	f100
+	
+}
